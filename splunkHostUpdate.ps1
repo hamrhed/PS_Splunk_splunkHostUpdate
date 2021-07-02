@@ -14,8 +14,8 @@
 # 
 # LOGGING INFO:
 # 	Event Log = Application
-#	Channel = SplunkHostUpdate
-#	EventID = 1337  
+#	Channel = <EventChannel>
+#	EventID = <EventID>  
 #
 # TO ADD: <nothing at this time>
 #
